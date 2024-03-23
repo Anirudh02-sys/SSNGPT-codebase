@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+langchain_google_genai
+llama-index 
+langchain-community
+requests
+beautifulsoup4
+langchain_experimental
+qdrant-client
+ragas
+pandas
+data
